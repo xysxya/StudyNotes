@@ -1,0 +1,1 @@
+The linear search approach compares the key sequentilly with each elemnt in the array. It continues to do so until the key matches an element in the array, or the array is exhausted without a match being found. If a match is made, the linear search return the index of the element in the array that matches the key. If no match is found, the search return -1.
